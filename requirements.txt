@@ -3,3 +3,4 @@ streamlit-webrtc~=0.47.1
 numpy~=1.21.5
 streamlit~=1.27.2
 pillow~=9.2.0
+moviepy~=1.0.3
